@@ -13,6 +13,17 @@
 
 请前往 Releases 页面，选择对应版本下载安装包。
 
+### 更新日志
+
+#### [v0.5.7]
+- 豆包同款语音识别能力
+  - 长按或双击「option」键可进行语音输入，也可自行设置快捷键；
+  - 新增个性化语音输入优化能力，越用越准；
+  - 支持设置标点使用习惯、英文与数字前后是否加空格、语音输入使用麦克风等；
+- 越用越准的键盘输入
+  - 越用越准的键盘输入，让输入更轻松；
+  - 支持主要快捷输入习惯的设置。
+
 ## English
 
 This repository provides the macOS beta version installation packages of Doubao Input Method obtained from community channels and the Internet, which are for learning and experiencing purposes only.
@@ -28,3 +39,13 @@ This repository provides the macOS beta version installation packages of Doubao 
 Please go to the Releases page and select the corresponding version to download the installation package.
 
 ### Changelog
+
+#### [v0.5.7]
+- Doubao same voice recognition capability
+  - Long press or double click the "option" key for voice input, also supports custom hotkey settings;
+  - Added personalized voice input optimization capability, gets more accurate the more you use;
+  - Supports setting punctuation usage habits, whether to add spaces before and after English and numbers, microphone for voice input, etc.;
+- Keyboard input that gets better with use
+  - Keyboard input that gets more accurate with use, makes typing easier;
+  - Supports settings for main shortcut input habits.
+
