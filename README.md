@@ -15,6 +15,14 @@
 
 ### 更新日志
 
+#### [v0.6.7]
+- 优化了语音输入准确率；
+- 语音输入快捷键长按和双击支持分开设置，长按默认使用「fn」键，双击默认使用「Right Option」；
+- 新增「模糊拼音」，可前往设置按需开启想要的模糊音配对；
+- 输入候选翻页支持了page up、page down键；
+- 优化了候选面板样式与候选框空白大的问题；
+- 设置页全新UI升级，新增升级提醒。
+
 #### [v0.5.7]
 - 豆包同款语音识别能力
   - 长按或双击「option」键可进行语音输入，也可自行设置快捷键；
@@ -39,6 +47,14 @@ This repository provides the macOS beta version installation packages of Doubao 
 Please go to the Releases page and select the corresponding version to download the installation package.
 
 ### Changelog
+
+#### [v0.6.7]
+- Optimized voice input accuracy;
+- Voice input hotkey long press and double click support separate settings, long press defaults to use "fn" key, double click defaults to use "Right Option";
+- Added "Fuzzy Pinyin", can go to settings to enable desired fuzzy sound pairings;
+- Input candidate page turning supports page up, page down keys;
+- Optimized candidate panel style and large blank space in candidate box issues;
+- Settings page new UI upgrade, added upgrade reminder.
 
 #### [v0.5.7]
 - Doubao same voice recognition capability
