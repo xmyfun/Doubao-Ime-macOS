@@ -1,4 +1,4 @@
-# Doubao-Ime-Installer
+# Doubao-Ime-macOS
 
 ## 中文
 
@@ -14,6 +14,17 @@
 请前往 Releases 页面，选择对应版本下载安装包。
 
 ### 更新日志
+
+#### [v0.6.8]
+- 新增双拼输入，可在「设置-键盘输入」中选择小鹤双拼或自然码；
+- 新增自动空格，打字时中英、中数之间也可以自动添加空格；
+- 新增符号自动替换，可自动将数字之间的冒号和句号替换为英文标点；
+- 修复 CPU 占用过高的问题；
+- 修复「Shift + 数字」上屏内容错误的问题；
+- 修复「cmd + backspace」无法清空内容的问题；
+- 修复「全角输入」下无法输入空格的问题；
+- 修复「空格代替标点」时，语音句尾有多余空格的问题；
+- 提升打字流畅度，优化长短词跳变带来的闪烁问题。
 
 #### [v0.6.7]
 - 优化了语音输入准确率；
@@ -47,6 +58,17 @@ This repository provides the macOS beta version installation packages of Doubao 
 Please go to the Releases page and select the corresponding version to download the installation package.
 
 ### Changelog
+
+#### [v0.6.8]
+- Added double - pinyin input. You can choose Xiahe Double - pinyin or Ziranma in "Settings - Keyboard Input".
+- Added auto - space feature. Spaces can be automatically added between Chinese and English, as well as between Chinese and numbers while typing.
+- Added automatic symbol replacement. Colons and periods between numbers can be automatically replaced with English punctuation marks.
+- Fixed the problem of excessive CPU usage.
+- Fixed the issue where the content entered by "Shift + number" was incorrect.
+- Fixed the problem that "cmd + backspace" couldn't clear the content.
+- Fixed the problem that spaces couldn't be input in "Full - width Input" mode.
+- Fixed the problem of extra spaces at the end of voice sentences when "space replaces punctuation".
+- Improved typing fluency and optimized the flicker problem caused by the jump between long and short words.
 
 #### [v0.6.7]
 - Optimized voice input accuracy;
