@@ -15,6 +15,14 @@
 
 ### 更新日志
 
+#### [v0.8.0]
+
+- 修复无法拉取到最新版的问题；
+- 修复偶现的语音内容丢失问题；
+- 修复偶现的展开候选后无法跳到第二行的问题；
+- 调整中英切换 icon 动画表现；
+- 其他细节优化。
+
 #### [v0.6.8]
 - 新增双拼输入，可在「设置-键盘输入」中选择小鹤双拼或自然码；
 - 新增自动空格，打字时中英、中数之间也可以自动添加空格；
@@ -58,6 +66,14 @@ This repository provides the macOS beta version installation packages of Doubao 
 Please go to the Releases page and select the corresponding version to download the installation package.
 
 ### Changelog
+
+#### [v0.8.0]
+
+- Fixed the issue where the latest version could not be fetched.
+- Fixed occasional loss of voice content.
+- Fixed the issue where the cursor could not jump to the second line after expanding candidates.
+- Adjusted the animation of the Chinese/English switch icon.
+- Other minor optimizations.
 
 #### [v0.6.8]
 - Added double - pinyin input. You can choose Xiahe Double - pinyin or Ziranma in "Settings - Keyboard Input".
