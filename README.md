@@ -15,6 +15,15 @@
 
 ### 更新日志
 
+#### [v0.8.1]
+
+- 修复语音内容偶现的重复输入问题；
+- 修复语音内容偶现的丢失问题；
+- 修复展开候选栏后无法跳转第二行的偶发问题；
+- 修复分屏场景偶发的语音面板位置偏移问题；
+- 修复无法正常拉取最新版本的问题；
+- 优化中英切换图标动画表现。
+
 #### [v0.8.0]
 
 - 修复无法拉取到最新版的问题；
@@ -66,6 +75,15 @@ This repository provides the macOS beta version installation packages of Doubao 
 Please go to the Releases page and select the corresponding version to download the installation package.
 
 ### Changelog
+
+#### [v0.8.1]
+
+- Fixed occasional voice content duplicate input issues;
+- Fixed occasional voice content loss problems;
+- Fixed rare issue where cursor couldn't jump to second line after expanding candidate bar;
+- Fixed voice panel position offset issues in split-screen scenarios;
+- Fixed problem with inability to fetch latest version normally;
+- Optimized Chinese/English toggle icon animation performance.
 
 #### [v0.8.0]
 
