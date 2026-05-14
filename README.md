@@ -15,6 +15,10 @@
 
 ### 更新日志
 
+#### [v0.9.0]
+
+- 官方正式版发布
+
 #### [v0.8.1]
 
 - 修复语音内容偶现的重复输入问题；
@@ -75,6 +79,11 @@ This repository provides the macOS beta version installation packages of Doubao 
 Please go to the Releases page and select the corresponding version to download the installation package.
 
 ### Changelog
+
+#### [v0.9.0]
+
+- Official release
+
 
 #### [v0.8.1]
 
